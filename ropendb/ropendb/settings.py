@@ -213,7 +213,7 @@ RO_ARMOR_LOCATIONS = {
     "Costume Top Headgear": 1024,
     "Middle headgear": 512,
     "Upper headgear": 256,
-    "Accessory": 136,
+    "Accessory": 136, # Sum of accessory 1 and 2 values
     "Footgear": 64,
     "Shield": 32,
     "Armor": 16,

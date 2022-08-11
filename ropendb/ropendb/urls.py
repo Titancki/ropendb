@@ -15,11 +15,12 @@ Including another URLconf
 """
 from django.urls import path, include
 from rest_framework import routers
-from ropendb.items import weaponsViews, armorViews
+from ropendb.items import weaponsViews, armorViews, cardViews
 
 router = routers.SimpleRouter()
 router.register(r'weapons', weaponsViews.WeaponsViewSet, basename='ItemDb')
 router.register(r'armor', armorViews.ArmorViewSet, basename='ItemDb')
+router.register(r'card', cardViews.CardViewSet, basename='ItemDb')
 
 # Wire up our API using automatic URL routing.
 # Additionally, we include login URLs for the browsable API.
