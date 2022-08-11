@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ropendb/ropendb/items/models.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ropendb/ropendb/items/weaponsViews.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ropendb/ropendb/models.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ropendb/ropendb/settings.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ropendb/ropendb/urls.py" charset="UTF-8" />
+  </component>
+</project>
